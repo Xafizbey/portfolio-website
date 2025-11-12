@@ -232,7 +232,7 @@ export function Projects() {
                 className="group"
                 onMouseEnter={() => setHoveredId(project.id)}
                 onMouseLeave={() => setHoveredId(null)}
-                variants={itemVariants}
+                // variants={itemVariants}
                 layoutId={`project-${project.id}`}
               >
                 <div className="relative rounded-2xl overflow-hidden border border-border bg-card hover:border-primary/50 transition-all duration-300 h-full flex flex-col shadow-sm hover:shadow-xl hover:shadow-primary/10">
