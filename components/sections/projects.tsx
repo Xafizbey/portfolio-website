@@ -68,7 +68,7 @@ export function Projects() {
       longDescription:
         "Built a visually stunning tourism platform with intuitive navigation, destination galleries, booking system, and real-time availability management for travelers and tour operators.",
       tech: ["Next.js 15", "React", "TypeScript", "Tailwind CSS", "Framer Motion", "PostgreSQL"],
-      image: "/tourism-website-interface.jpg",
+      image: "/aeronomad.jpg",
       category: "Full-Stack",
       featured: true,
       stats: { destinations: "50+", bookings: "1000+", rating: "4.9" },
